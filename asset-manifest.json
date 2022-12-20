@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/fabris-page/static/css/main.e6c13ad2.css",
-    "main.js": "/fabris-page/static/js/main.6f0ea83f.js",
+    "main.js": "/fabris-page/static/js/main.bc0f694a.js",
     "static/js/787.7ffe6c37.chunk.js": "/fabris-page/static/js/787.7ffe6c37.chunk.js",
+    "static/media/fabri.png": "/fabris-page/static/media/fabri.f537f3d4e06284cae41a.png",
+    "static/media/fabri3.png": "/fabris-page/static/media/fabri3.a82bebde30364ee1ca36.png",
+    "static/media/fabri2.png": "/fabris-page/static/media/fabri2.4e3e160df205b6843db8.png",
     "index.html": "/fabris-page/index.html",
     "main.e6c13ad2.css.map": "/fabris-page/static/css/main.e6c13ad2.css.map",
-    "main.6f0ea83f.js.map": "/fabris-page/static/js/main.6f0ea83f.js.map",
+    "main.bc0f694a.js.map": "/fabris-page/static/js/main.bc0f694a.js.map",
     "787.7ffe6c37.chunk.js.map": "/fabris-page/static/js/787.7ffe6c37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6f0ea83f.js"
+    "static/js/main.bc0f694a.js"
   ]
 }
