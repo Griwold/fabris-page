@@ -4,8 +4,7 @@ import { Button, Stack } from '@mui/material';
 import { Container } from '../../constants/styles/globalStyles';
 import { NameTitle, SubTitle, PortfolioButton, ContactButton } from './presentationStyle';
 
-const Presentation = () => {
-    return (
+const Presentation = () => (
         <Container flexDirection={'column'} gap={4}>
             <NameTitle> Fabrizio Sanchez </NameTitle>
             <SubTitle> Animador de pitos </SubTitle>
@@ -14,7 +13,6 @@ const Presentation = () => {
             <ContactButton> Contact me</ContactButton>
             </Stack>
         </Container>
-    )
-}
+);
 
 export default Presentation;
