@@ -4,5 +4,5 @@ export const Container = styled(Box)({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    minHeight: '100vh'
+    minHeight: '100vh',
 }) as typeof Box

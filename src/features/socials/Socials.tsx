@@ -7,7 +7,7 @@ import { ContainerSocial } from './socialsStyle';
 
 const Socials = () => {
 
-    const openInstagram = () => window.open('https://www.instagram.com/fabrii.s22/', '_blank');
+    const openInstagram = () => window.open('https://www.instagram.com/elan.prods/', '_blank');
     const openYoutube = () => window.open('https://www.youtube.com/@fabrisanchez286', '_blank');
     const openLinkedin= () => window.open('https://www.linkedin.com/in/fabri-sanchez-1a1842228/', '_blank');
 

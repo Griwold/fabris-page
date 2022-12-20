@@ -8,8 +8,8 @@ export const NameTitle = styled(Typography)({
 
 export const SubTitle = styled(Typography)({
     color: 'white', 
-    fontSize: 18, 
-    fontFamily: 'revert'
+    fontSize: 16, 
+    fontFamily: 'fangsong'
 }) as typeof Typography;
 
 export const PortfolioButton = styled(Button)({
