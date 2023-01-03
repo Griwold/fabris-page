@@ -12,3 +12,9 @@ export const SubTitle = styled(Typography)({
     fontFamily: 'revert'
 }) as typeof Typography;
 
+export const SubTitleMobile = styled(Typography)({
+    color: 'white', 
+    fontSize: 22, 
+    fontFamily: 'revert'
+}) as typeof Typography;
+

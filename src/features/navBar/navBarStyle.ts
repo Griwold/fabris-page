@@ -6,7 +6,7 @@ export const NavBarContainer = styled(Box)({
     alignItems: 'center',
     height: 50,
     width: '100%',
-    backgroundColor: 'transparent',
+    backgroundColor: '#121212',
     position: 'fixed',
     top: 0
 }) as typeof Box;

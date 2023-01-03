@@ -1,4 +1,6 @@
 import React from 'react';
+import { Box } from '@mui/material';
+import { isBrowser } from 'react-device-detect';
 
 import Presentation from '../presentation/Presentation';
 import NavBar from '../navBar/NavBar';
@@ -8,8 +10,8 @@ import About from '../about/About';
 
 const App = () => {
   return (
-    <div style={{ backgroundColor: '#121212' }}>
-      <NavBar />
+    <Box style={{ height: '100%', width: '100%' }}>
+      {isBrowser && <NavBar />}
       <Socials />
       <section id='home'>
         <Presentation />
@@ -20,7 +22,7 @@ const App = () => {
       <section id='portfolio'>
         <Portfolio />
       </section>
-    </div>
+    </Box>
   )
 }
 
