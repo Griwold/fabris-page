@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fabris-page/static/css/main.e6c13ad2.css",
-    "main.js": "/fabris-page/static/js/main.b10e7d0c.js",
+    "main.css": "/fabris-page/static/css/main.f817a05d.css",
+    "main.js": "/fabris-page/static/js/main.1ffb1972.js",
     "static/js/787.7ffe6c37.chunk.js": "/fabris-page/static/js/787.7ffe6c37.chunk.js",
     "static/media/fabri.png": "/fabris-page/static/media/fabri.f537f3d4e06284cae41a.png",
     "static/media/fabri3.png": "/fabris-page/static/media/fabri3.a82bebde30364ee1ca36.png",
     "static/media/fabri2.png": "/fabris-page/static/media/fabri2.4e3e160df205b6843db8.png",
     "index.html": "/fabris-page/index.html",
-    "main.e6c13ad2.css.map": "/fabris-page/static/css/main.e6c13ad2.css.map",
-    "main.b10e7d0c.js.map": "/fabris-page/static/js/main.b10e7d0c.js.map",
+    "main.f817a05d.css.map": "/fabris-page/static/css/main.f817a05d.css.map",
+    "main.1ffb1972.js.map": "/fabris-page/static/js/main.1ffb1972.js.map",
     "787.7ffe6c37.chunk.js.map": "/fabris-page/static/js/787.7ffe6c37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.b10e7d0c.js"
+    "static/css/main.f817a05d.css",
+    "static/js/main.1ffb1972.js"
   ]
 }
